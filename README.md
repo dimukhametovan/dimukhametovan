@@ -10,7 +10,7 @@
   <table>
     <tr>
       <td><img src="https://github.com/dimukhametovan/dimukhametovan/blob/main/coding.gif" alt="I love coding!" height="150"/></td>
-      <td><p>Информация обо мне</p></td>
+      <td><p>студентик-первокурсник 8 института маи</p></td>
     </tr>
   </table>
 </div>
