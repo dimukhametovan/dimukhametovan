@@ -13,8 +13,5 @@
       <td><p>студентик-первокурсник 8 института маи</p></td>
     </tr>
   </table>
-  <img alt="stats" src="https://github-readme-stats-cuwk.vercel.appapi/top-langs/?username=kstivens&layout=compact">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimuhametovan&layout=compact)</div>
-![Top Langs](https://github-readme-stats-khaki-six-53.vercel.app/api/top-langs/?username=dimuhametovan&layout=compact)
-![Top Langs](https://github-readme-stats-cuwk.vercel.appapi/top-langs/?username=kstivens&layout=compact)
+  </div>
 
